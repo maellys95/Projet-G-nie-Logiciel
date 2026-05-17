@@ -1,2 +1,2 @@
-# Projet-G-nie-Logiciel
+# Projet-Génie-Logiciel
 Projet informatique d'évacuation d'un incendie 
