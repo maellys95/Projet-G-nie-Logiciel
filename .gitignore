@@ -1,0 +1,22 @@
+# Maven
+target/
+*.class
+dependency-reduced-pom.xml
+.m2-codex/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+.classpath
+.project
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Simulation saves
+*.bin
